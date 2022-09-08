@@ -45,6 +45,7 @@ alinha a esquerda os itens do dropdown menu*/
   display: flex;
   justify-content: center;
   width: 30%;
+  margin-bottom: 0;
 }
 
 /* alinha nav-dropdown no fim da tela*/
@@ -145,6 +146,7 @@ ul.p-0.m-0.item-nav {
   justify-content: space-between;
   /* background-color: #303030; */
   color: #c4c4c4;
+  padding: 0.5em;
 }
 
 /*ajustes finos no h3 do nav-menu e logo*/
@@ -168,10 +170,6 @@ ul.p-0.m-0.item-nav {
 
 .user-icon img {
   background-color: #ff0000;
-}
-
-.nav-menu h3 {
-  margin: 0 0 0 1em;
 }
 
 .nav-menu a {
