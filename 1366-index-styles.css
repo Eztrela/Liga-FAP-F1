@@ -29,7 +29,9 @@ footer {
 
 alinha a esquerda os itens do dropdown menu*/
 .nav-menu {
+  
   background-color: #151515;
+  
 }
 
 /*HEADER
@@ -172,9 +174,17 @@ ul.p-0.m-0.item-nav {
   background-color: #ff0000;
 }
 
+<<<<<<< HEAD
 .nav-menu a {
   /* background-color: #303030; */
 }
+=======
+.nav-menu h3 {
+  margin: 0 0 0 1em;
+}
+
+
+>>>>>>> 173c79ada704352bfaa31ebb02b786d79b86e464
 
 header {
   display: flex;
@@ -283,6 +293,8 @@ ul.dropdown-menu.p-0.show {
   display: flex;
   flex-direction: column;
 }
+
+
 
 .patrocinadores {
   margin: 1em 0;
